@@ -1,2 +1,4 @@
 hello git
 
+it is new line so i added
+HELLO GITHUB
